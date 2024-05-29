@@ -13,8 +13,8 @@ function App() {
 
       </header>
       <section id="Home" className='flex justify-center items-center even:bg-slate-900 odd:bg min-h-screen text-8xl font-bold'>MR ARIKI JUST LOST</section>
-      <section id="About" className='flex justify-center items-center even:bg-slate-900 odd:bg-gray-600 min-h-screen text-8xl font-bold'>About</section>
-      <section id="Services" className='flex justify-center items-center even:bg-slate-900 odd:bg-gray-600 min-h-screen text-8xl text-white font-bold'>Services</section>
+      <section id="About" className='flex justify-center items-center even:bg-slate-900 odd:bg-gray-600 min-h-screen text-8xl font-bold'>EDBERT FIRST TIME WINNING</section>
+      <section id="Services" className='flex justify-center items-center even:bg-slate-900 odd:bg-gray-600 min-h-screen text-8xl text-white font-bold'>MR ARIKI MAD</section>
     </div>
   );
 }
